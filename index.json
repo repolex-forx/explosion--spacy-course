@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-course",
+  "versions": [
+    {
+      "commit": "77d8ee1630788b1fb0df1f80f999f7355941a37f",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:37:21.009508+00:00"
+    }
+  ]
+}
