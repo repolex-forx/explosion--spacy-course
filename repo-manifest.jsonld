@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-course/commit/77d8ee1630788b1fb0df1f80f999f7355941a37f",
       "git:hexsha": "77d8ee1630788b1fb0df1f80f999f7355941a37f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
